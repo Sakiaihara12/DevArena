@@ -113,6 +113,7 @@ Animasi: Framer Motion
 ====================================================================================================
 
 ~ Team Members (Group 13) ~
+
 Syahrul Giga Wahyudi – STT Terpadu Nurul Fikri
 
 Muhammad Riandana Pranatha – STT Terpadu Nurul Fikri
