@@ -53,7 +53,7 @@ Animations: Framer Motion
 8. match_players – Relates players to active matches and tracks match winners.
 
 
-====================================================================================================
+============================================================================
 
 DevArena
 DevArena adalah game web turn-based card battle bertema cyberpunk yang dirancang untuk membuat proses belajar fullstack web development menjadi interaktif, seru, dan menyenangkan. Game ini menggabungkan mekanik pengumpulan kartu strategis (gacha dengan Pity System), penyusunan deck, dan sistem kuis trivia di mana jawaban yang benar memberikan pengganda damage serangan.
@@ -110,7 +110,7 @@ Animasi: Framer Motion
 
 8. match_players – Menghubungkan pemain ke pertandingan aktif dan mencatat pemenang pertandingan.
 
-====================================================================================================
+============================================================================
 
 ~ Team Members (Group 13) ~
 
