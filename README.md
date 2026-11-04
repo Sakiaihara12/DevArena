@@ -1,4 +1,5 @@
-DevArena
+***DevArena***
+
 DevArena is a turn-based card battle web game with a cyberpunk theme, designed to make learning fullstack web development interactive, engaging, and fun. It combines strategic card-collecting mechanics (gacha with a Pity System), deck building, and a trivia quiz system where answering programming questions correctly grants attack damage multipliers.
 
 This project was built as the Final Project for Fullstack Web Development (Kelompok 13 - Group 13) at STT Terpadu Nurul Fikri.
@@ -55,7 +56,8 @@ Animations: Framer Motion
 
 ============================================================================
 
-DevArena
+***DevArena***
+
 DevArena adalah game web turn-based card battle bertema cyberpunk yang dirancang untuk membuat proses belajar fullstack web development menjadi interaktif, seru, dan menyenangkan. Game ini menggabungkan mekanik pengumpulan kartu strategis (gacha dengan Pity System), penyusunan deck, dan sistem kuis trivia di mana jawaban yang benar memberikan pengganda damage serangan.
 
 Proyek ini dibuat sebagai Tugas Akhir Fullstack Web Development (Kelompok 13) di STT Terpadu Nurul Fikri.
