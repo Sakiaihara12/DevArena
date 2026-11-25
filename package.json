@@ -1,0 +1,16 @@
+{
+  "name": "devarena",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "dev": "concurrently -n backend,frontend -c cyan,magenta \"cd backend && php artisan serve\" \"cd frontend && npm run dev\""
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "concurrently": "^10.0.7"
+  }
+}
