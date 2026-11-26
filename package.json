@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-  "dev": "concurrently -n backend,frontend -c cyan,magenta \"cd backend && php artisan serve\" \"cd frontend && npm run dev\""
-},
+    "dev": "concurrently -n backend,frontend -c cyan,magenta \"cd backend && php artisan serve\" \"cd frontend && npm run dev\""
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",

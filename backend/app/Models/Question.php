@@ -12,7 +12,6 @@ class Question extends Model
         'correct_answer',
     ];
 
-    // Bentuk soal yang aman dikirim ke frontend (tanpa kunci jawaban)
     public function toQuizArray(): array
     {
         return [

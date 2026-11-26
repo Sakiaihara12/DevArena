@@ -7,7 +7,6 @@ use Illuminate\Http\Request;
 
 class QuestionController extends Controller
 {
-    // GET /api/questions/random?category=JavaScript
     public function random(Request $request)
     {
         $request->validate([
@@ -24,5 +23,10 @@ class QuestionController extends Controller
         }
 
         return response()->json(['data' => $question->toQuizArray()]);
+    }
+    public function getallquestions()
+    {
+        $questions = Question::all();
+        return response()->json(['data' => $questions->map->toQuizArray()]);
     }
 }
